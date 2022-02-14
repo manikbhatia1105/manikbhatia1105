@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Developing Websites and Softwares.
 - 📫 How to reach me manikbhatia1105@gmail.com
-
+- 🔗 https://linktr.ee/manikbhatia1105
