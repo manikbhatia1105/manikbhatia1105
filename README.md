@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manik Bhatia
-- 👀 I’m interested in Back-end DEvelopment.
+- 👀 I’m interested in Back-end Development.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Developing Websites and Softwares.
 - 📫 How to reach me manikbhatia1105@gmail.com
